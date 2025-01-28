@@ -32,6 +32,7 @@ return {
         "go",
         "gomod",
         "gosum",
+        "hurl",
       },
     },
   },
